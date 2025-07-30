@@ -2,7 +2,7 @@
 
 A Python application for predicting future values based on historical data using various regression models.
 
-## Table of Contents
+# Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,7 +10,7 @@ A Python application for predicting future values based on historical data using
 - [License](#license)
 - [Contributing](#contributing)
 
-## Installation
+# Installation
 
 1. Clone the repository:
 
